@@ -1,4 +1,4 @@
-# 
+# automatic JetBrains Rider for PC | JetBrains Rider for Windows Plugin | debugger + collaboration-tools is the best JetBrains Rider for PC | JetBrains Rider for Windows plugin,
 
 
 
